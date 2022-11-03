@@ -1,5 +1,6 @@
-# cogs-transformer-concat-commonjs
+# cogs-transformer-swc
 
-A CommonJS concatenation transformer for [Cogs].
+An [SWC] transformer for [Cogs].
 
+[SWC]: https://swc.rs
 [Cogs]: https://github.com/caseywebdev/cogs
